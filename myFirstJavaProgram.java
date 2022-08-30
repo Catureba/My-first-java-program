@@ -15,7 +15,7 @@ public class  myFirstJavaProgram{
         System.out.println("Digite sua idade");
         idade = sc.nextInt();
 
-        System.out.println("seu nome é: " + nome + "e sua idade é: " + idade);
+        System.out.println("seu nome é: " + nome + " e sua idade é: " + idade);
 
 
         
